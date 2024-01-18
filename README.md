@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Mithravijay
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning in college
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me 8122420922
+Dedicated and enthusiastic Decision and Computing Sciences student with a keen passion for utilizing data-driven methodologies to address challenges and conduct computational analysis.
 
 <!---
 Mithravijay/Mithravijay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
